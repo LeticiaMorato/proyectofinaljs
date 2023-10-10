@@ -1,0 +1,59 @@
+{
+    "discos":[
+      {
+        "codigo":0,
+        "banda": "Alice in Chains",
+        "album": "Dirt",
+        "imagen": "./IMG/dirt.jpg",
+        "detalle": "Dirt es el segundo álbum de estudio de la banda de rock estadounidense Alice in Chains, grabado entre marzo y mayo de 1992 y publicado por Columbia Records el 29 de septiembre del mismo año.",
+        "precio": "3500",
+        "puntuacion": 4
+      },
+      {
+        "codigo":1,
+        "banda": "Mad Season",
+        "album": "Above",
+        "imagen": "./IMG/mad season.jpg",
+        "detalle": "Above es el primer y único disco del supergrupo de rock alternativo Mad Season, lanzado el 14 de marzo de 1995 por Columbia Records.",
+        "precio": "3600",
+        "puntuacion": 5
+      },
+      {
+        "codigo":2,
+        "banda": "Nirvana",
+        "album": "Bleach",
+        "imagen": "./IMG/Nirvana-Bleach.jpg",
+        "detalle": "Es el álbum debut de la banda de grunge estadounidense Nirvana, lanzado en junio de 1989 a través del sello discográfico independiente Sub Pop.",
+        "precio": "3800",
+        "puntuacion": 5
+      },
+      {
+        "codigo":3,
+        "banda": "Soundgarden",
+        "album": "Badmotorfinger",
+        "imagen": "./IMG/Soundgarden-Badmotorfinger.jpg",
+        "detalle": "Es el tercer álbum de la banda Soundgarden, que salió a la venta el 8 de octubre de 1991, bajo el sello discográfico A&M Records.",
+        "precio": "3200",
+        "puntuacion": 4
+      },
+      {
+        "codigo":4,
+        "banda": "Pearl Jam",
+        "album": "Vitalogy",
+        "imagen": "./IMG/vitalogy.jpg",
+        "detalle": "Vitalogy es el tercer álbum de estudio de la banda estadounidense de grunge Pearl Jam, lanzado el 22 de noviembre de 1994 por la compañía discográfica Epic Records.",
+        "precio": "3200",
+        "puntuacion": 4
+      },
+      {
+        "codigo":5,
+        "banda": "Stone Temple Pilots",
+        "album": "Core",
+        "imagen": "./IMG/core.jpg",
+        "detalle": "Core es el álbum debut de la banda estadounidense de grunge publicado el 29 de septiembre de 1992 a través de Atlantic Records.",
+        "precio": "3200",
+        "puntuacion": 5
+      }
+      ]
+    
+  }
